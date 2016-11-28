@@ -1,2 +1,4 @@
 # hello-world
-This is my first repository of github
+This is my first repository of github.
+Hello BIRL.
+Dennis is BIRL lab member.
